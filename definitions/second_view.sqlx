@@ -1,4 +1,5 @@
 config { type: "view" }
+tags:["Rahul"]
 
 -- Use the ref() function to manage dependencies.
 -- Learn more about ref() and other built in functions here: https://cloud.google.com/dataform/docs/dataform-core
