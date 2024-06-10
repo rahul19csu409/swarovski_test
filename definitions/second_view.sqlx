@@ -1,5 +1,4 @@
-config { type: "view", 
-tags:["Rahul"]
+config { type: "view"
 }
 
 
